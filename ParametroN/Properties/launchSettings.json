@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParametroN": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
